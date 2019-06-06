@@ -155,4 +155,4 @@ looker.plugins.visualizations.add({
     // We are done rendering! Let Looker know.
     done()
   }
-});zgit commit -m "first commit"
+})
